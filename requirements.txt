@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+jupyterlab
+librosa
+soundfile
+scipy
+torch
+transformers
+datasets
+huggingface_hub
+torchaudio
+accelerate
+nemo_toolkit
+tensorboard
+wandb
