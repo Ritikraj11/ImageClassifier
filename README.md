@@ -53,7 +53,7 @@ Example:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourrepo.git
+git clone  https://github.com/Ritikraj11/ImageClassifier
 
 cd yourrepo
 
